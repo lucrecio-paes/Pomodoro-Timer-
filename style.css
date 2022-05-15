@@ -22,7 +22,7 @@ input[type="number"] {
     -moz-appearance: none;
 }
 
-.time{
+.time {
     color: #fff;
     text-align: center;
     width: 20rem;
@@ -31,13 +31,14 @@ input[type="number"] {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin : auto!important;
 
 }
 
-h2{
+h2 {
     font-size: 90pt;
 }
 
-#timer{
-    display: none!important;
+#timer {
+    display: none !important;
 }
